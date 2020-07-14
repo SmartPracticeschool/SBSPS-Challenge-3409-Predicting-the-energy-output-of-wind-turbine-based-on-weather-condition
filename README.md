@@ -10,4 +10,5 @@ turbine for some time in future at least for 1 hr.
 #DATASET:
 [KAGGLE DATA SET](https://www.kaggle.com/berkerisen/wind-turbine-scada-dataset)
 # CODE:
-[Code to predict output power and energy](https://github.com/SmartPracticeschool/SBSPS-Challenge-3409-Predicting-the-energy-output-of-wind-turbine-based-on-weather-condition/blob/master/POWERPREDICTION%20(3).ipynb)
+[Code to predict output power and energy](https://github.com/SmartPracticeschool/SBSPS-Challenge-3409-Predicting-the-energy-output-of-wind-turbine-based-on-weather-condition/blob/master/ENERGY-POWER-PREDICTION.ipynb)
+
