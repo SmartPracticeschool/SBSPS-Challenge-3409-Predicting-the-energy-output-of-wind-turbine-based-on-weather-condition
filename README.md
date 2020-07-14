@@ -7,7 +7,7 @@ output can be predicted more accurately, energy suppliers can coordinate the col
 # SOLUTION:
 We will build a MACHINE LEARNING model to predict output power generated from wind turbine based on wind speed. And we will predict output energy that can be generated from wind 
 turbine for some time in future at least for 1 hr.
-#DATASET:
+# DATASET:
 [KAGGLE DATA SET](https://www.kaggle.com/berkerisen/wind-turbine-scada-dataset)
 # CODE:
 [Code to predict output power and energy](https://github.com/SmartPracticeschool/SBSPS-Challenge-3409-Predicting-the-energy-output-of-wind-turbine-based-on-weather-condition/blob/master/ENERGY-POWER-PREDICTION.ipynb)
