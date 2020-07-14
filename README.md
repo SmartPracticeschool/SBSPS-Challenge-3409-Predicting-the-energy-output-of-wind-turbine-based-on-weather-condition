@@ -9,4 +9,4 @@ We will build a MACHINE LEARNING model to predict output power generated from wi
 turbine for some time in future at least for 1 hr.
 DATASET
 kaggel
-[Contribution guidelines for this project](POWERPREDICTION (3).ipynb)
+[a relative link](POWERPREDICTION (3).ipynb)
