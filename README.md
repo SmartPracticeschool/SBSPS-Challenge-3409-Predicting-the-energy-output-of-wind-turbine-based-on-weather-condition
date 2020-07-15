@@ -15,4 +15,4 @@ turbine for some time in future at least for 1 hr.
 We created a web application using FLASK in python and deployed using HEROKU.
 [Click here to go web application](https://nandwindprediction.herokuapp.com)
 # PROJECT REPORT
-[project_report](https://github.com/SmartPracticeschool/SBSPS-Challenge-3409-Predicting-the-energy-output-of-wind-turbine-based-on-weather-condition/blob/master/project_report.pdf)
+[project_report]https://github.com/SmartPracticeschool/SBSPS-Challenge-3409-Predicting-the-energy-output-of-wind-turbine-based-on-weather-condition/blob/master/DOCS/project_report.pdf)
