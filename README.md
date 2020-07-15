@@ -5,7 +5,7 @@
 Wind energy plays an increasing role in the supply of energy world-wide. The energy output of a wind farm is highly dependent on the wind conditions present at its site. If the
 output can be predicted more accurately, energy suppliers can coordinate the collaborative production of different energy sources more efficiently to avoid costly overproduction.
 # SOLUTION:
-We will build a MACHINE LEARNING model to predict output power generated from wind turbine based on wind speed. And we will predict output energy that can be generated from wind 
+We built a MACHINE LEARNING model to predict output power generated from wind turbine based on wind speed. And we will predict output energy that can be generated from wind 
 turbine for some time in future at least for 1 hr.
 # DATASET:
 [KAGGLE DATA SET](https://www.kaggle.com/berkerisen/wind-turbine-scada-dataset)
